@@ -1,0 +1,188 @@
+[
+  {
+    "index": 0,
+    "pergunta": "O-R-U-T-O-D",
+    "tipo": "Profissao",
+    "resposta": "DOUTOR"
+  },
+  {
+    "index": 1,
+    "pergunta": "U-O-P-T-O-M-C-D-A-R-O",
+    "tipo": "Coisas",
+    "resposta": "COMPUTADOR"
+  },
+  {
+    "index": 2,
+    "pergunta": "S-S-E-O-P-F-O-R-R",
+    "tipo": "Profissao",
+    "resposta": "PROFESSOR"
+  },
+  {
+    "index": 3,
+    "pergunta": "E-A-I-R-C-A-D",
+    "tipo": "Coisas",
+    "resposta": "CADEIRA"
+  },
+  {
+    "index": 4,
+    "pergunta": "A-C-O-T-D-L-E",
+    "tipo": "Coisas",
+    "resposta": "TECLADO"
+  },
+  {
+    "index": 5,
+    "pergunta": "A-P-I-P",
+    "tipo": "Coisas",
+    "resposta": "PIPA"
+  },
+  {
+    "index": 6,
+    "pergunta": "H-O-C-R-C-O-R-A",
+    "tipo": "Animal",
+    "resposta": "CACHORRO"
+  },
+  {
+    "index": 7,
+    "pergunta": "B-O-O-M-B-E-R-I",
+    "tipo": "Profissao",
+    "resposta": "BOMBEIRO"
+  },
+  {
+    "index": 8,
+    "pergunta": "E-X-S-O",
+    "tipo": "Coisas",
+    "resposta": "SEXO"
+  },
+  {
+    "index": 9,
+    "pergunta": "O-B-L-A",
+    "tipo": "Coisas",
+    "resposta": "BOLA"
+  },
+  {
+    "index": 10,
+    "pergunta": "I-R-G-F-A-A",
+    "tipo": "Animal",
+    "resposta": "GIRAFA"
+  },
+  {
+    "index": 11,
+    "pergunta": "A-L-N-S-A-H-A",
+    "tipo": "Comida",
+    "resposta": "LASANHA"
+  },
+  {
+    "index": 12,
+    "pergunta": "L-U-C-R-A-L-E",
+    "tipo": "Coisas",
+    "resposta": "CELULAR"
+  },
+  {
+    "index": 13,
+    "pergunta": "G-N-A-A-A-I-S-O-L-H",
+    "tipo": "Cidade",
+    "resposta": "ALAGOINHAS"
+  },
+  {
+    "index": 14,
+    "pergunta": "O-C-O-B-F-E-K-A",
+    "tipo": "Social",
+    "resposta": "FACEBOOK"
+  },
+  {
+    "index": 15,
+    "pergunta": "F-A-R-G-A-R-A",
+    "tipo": "Coisas",
+    "resposta": "GARRAFA"
+  },
+  {
+    "index": 16,
+    "pergunta": "L-S-T-I-A-E-V-O-E",
+    "tipo": "Coisas",
+    "resposta": "TELEVISAO"
+  },
+  {
+    "index": 17,
+    "pergunta": "P-A-I",
+    "tipo": "Coisas",
+    "resposta": "API"
+  },
+  {
+    "index": 18,
+    "pergunta": "I-B-A-A-C-A-X",
+    "tipo": "Fruta",
+    "resposta": "ABACAXI"
+  },
+  {
+    "index": 19,
+    "pergunta": "T-A-O-G",
+    "tipo": "Animal",
+    "resposta": "GATO"
+  },
+  {
+    "index": 20,
+    "pergunta": "T-V-O-R-R-S-A-E-I-E-S",
+    "tipo": "Coisas",
+    "resposta": "TRAVESSEIRO"
+  },
+  {
+    "index": 21,
+    "pergunta": "E-A-R-Z-B",
+    "tipo": "Animal",
+    "resposta": "ZEBRA"
+  },
+  {
+    "index": 22,
+    "pergunta": "r-n-o-c-i-t-o-r-n-o-i-r",
+    "tipo": "Animal",
+    "resposta": "ORNITORRINCO"
+  },
+  {
+    "index": 23,
+    "pergunta": "A-I-O-B-A-G",
+    "tipo": "Fruta",
+    "resposta": "GOIABA"
+  },
+  {
+    "index": 24,
+    "pergunta": "A-N-O-M-R-O-G",
+    "tipo": "Fruta",
+    "resposta": "MORANGO"
+  },
+  {
+    "index": 25,
+    "pergunta": "M-A-A-N-M-U-I-O-K",
+    "tipo": "Fruta",
+    "resposta": "AKUMANOMI"
+  },
+  {
+    "index": 26,
+    "pergunta": "I-N-E-E-N-T-T-R",
+    "tipo": "Coisas",
+    "resposta": "INTERNET"
+  },
+  {
+    "index": 27,
+    "pergunta": "T-T-E-W-T-I-R",
+    "tipo": "Social",
+    "resposta": "TWITTER"
+  },
+  {
+    "index": 28,
+    "pergunta": "I-T-E-N-G-E-B-A",
+    "tipo": "Coisas",
+    "resposta": "GABINETE"
+  },
+  {
+    "index": 29,
+    "pergunta": "ALEO",
+    "tipo": "Animal",
+    "resposta": "LEAO"
+  },
+  {
+    "index": 30,
+    "pergunta": "L-R-I-E-A-X-I",
+    "tipo": "Coisas",
+    "resposta": "LIXEIRA"
+  }
+]
