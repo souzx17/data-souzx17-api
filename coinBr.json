@@ -1,13 +1,13 @@
 [{
     "number": "1",
-    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/moedas/caracoinbr-unscreen.webp"
+    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/coinBr/caracoinbr-unscreen.gif"
 },
 {
     "number": "2",
-    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/moedas/coroacoinbr-unscreen.webp"
+    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/coinBr/coinbrinfinito-unscreen.gif"
 },
  {
     "number": "3",
-    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/moedas/coinbrinfinito-unscreen.webp"
+    "result": "https://raw.githubusercontent.com/souzx17/data-souzx17-api/main/coinBr/coroacoinbr-unscreen.gif"
 }]
 
