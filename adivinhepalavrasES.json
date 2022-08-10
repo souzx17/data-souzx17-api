@@ -1,0 +1,188 @@
+[
+  {
+    "index": 0,
+    "pregunta": "E-D-I-C-M-O",
+    "tipo": "Profesión",
+    "respuestas": "MEDICO"
+  },
+  {
+    "index": 1,
+    "pregunta": "T-O-O-A-R-C-P-U-D-M-A",
+    "tipo": "Cosas",
+    "respuestas": "COMPUTADORA"
+  },
+  {
+    "index": 2,
+    "pregunta": "R-E-O-R-F-O-S-P",
+    "tipo": "Profesión",
+    "respuestas": "PROFESOR"
+  },
+  {
+    "index": 3,
+    "pregunta": "L-S-I-L-A",
+    "tipo": "Cosas",
+    "respuestas": "SILLA"
+  },
+  {
+    "index": 4,
+    "pregunta": "A-C-O-T-D-L-E",
+    "tipo": "Cosas",
+    "respuestas": "TECLADO"
+  },
+  {
+    "index": 5,
+    "pregunta": "O-M-C-E-T-A",
+    "tipo": "Cosas",
+    "respuestas": "COMETA"
+  },
+  {
+    "index": 6,
+    "pregunta": "O-P-R-E-R",
+    "tipo": "Animal",
+    "respuestas": "PERRO"
+  },
+  {
+    "index": 7,
+    "pregunta": "B-R-O-B-M-E-O",
+    "tipo": "Profesión",
+    "respuestas": "BOMBERO"
+  },
+  {
+    "index": 8,
+    "pregunta": "E-X-S-O",
+    "tipo": "Cosas",
+    "respuestas": "SEXO"
+  },
+  {
+    "index": 9,
+    "pregunta": "A-L-E-O-T-P",
+    "tipo": "Cosas",
+    "respuestas": "PELOTA"
+  },
+  {
+    "index": 10,
+    "pregunta": "A-A-J-I-F-R",
+    "tipo": "Animal",
+    "respuestas": "JIRAFA"
+  },
+  {
+    "index": 11,
+    "pregunta": "S-A-Ñ-A-A-L",
+    "tipo": "alimento",
+    "respuestas": "LASAÑA"
+  },
+  {
+    "index": 12,
+    "pregunta": "L-U-C-R-A-L-E",
+    "tipo": "Cosas",
+    "respuestas": "CELULAR"
+  },
+  {
+    "index": 13,
+    "pregunta": "G-J-A-L-D-A-A-A-U-A-R",
+    "tipo": "Ciudad",
+    "respuestas": "GUADALAJARA"
+  },
+  {
+    "index": 14,
+    "pregunta": "O-C-O-B-F-E-K-A",
+    "tipo": "Social",
+    "respuestas": "FACEBOOK"
+  },
+  {
+    "index": 15,
+    "pregunta": "L-T-E-O-B-A-L",
+    "tipo": "Cosas",
+    "respuestas": "BOTELLA"
+  },
+  {
+    "index": 16,
+    "pregunta": "E-R-S-I-E-T-LO-V",
+    "tipo": "Cosas",
+    "respuestas": "TELEVISOR"
+  },
+  {
+    "index": 17,
+    "pregunta": "P-A-I",
+    "tipo": "Cosas",
+    "respuestas": "API"
+  },
+  {
+    "index": 18,
+    "pregunta": "I-Ñ-P-A",
+    "tipo": "Fruta",
+    "respuestas": "PIÑA"
+  },
+  {
+    "index": 19,
+    "pregunta": "T-A-O-G",
+    "tipo": "Animal",
+    "respuestas": "GATO"
+  },
+  {
+    "index": 20,
+    "pregunta": "M-A-A-A-H-D-O-L",
+    "tipo": "Cosas",
+    "respuestas": "ALMOHADA"
+  },
+  {
+    "index": 21,
+    "pregunta": "R-E-B-A-C",
+    "tipo": "Animal",
+    "respuestas": "CEBRA"
+  },
+  {
+    "index": 22,
+    "pregunta": "r-n-o-c-i-t-o-r-n-o-i-r",
+    "tipo": "Animal",
+    "respuestas": "ORNITORRINCO"
+  },
+  {
+    "index": 23,
+    "pregunta": "A-A-U-G-A-Y-B",
+    "tipo": "Fruta",
+    "respuestas": "GUAYABA"
+  },
+  {
+    "index": 24,
+    "pregunta": "E-F-A-S-R",
+    "tipo": "Fruta",
+    "respuestas": "FRESA"
+  },
+  {
+    "index": 25,
+    "pregunta": "M-A-A-N-M-U-I-O-K",
+    "tipo": "Fruta",
+    "respuestas": "AKUMANOMI"
+  },
+  {
+    "index": 26,
+    "pregunta": "UNBRO",
+    "tipo": "gay",
+    "respuestas": "BRUNO"
+  },
+  {
+    "index": 27,
+    "pregunta": "T-T-E-W-T-I-R",
+    "tipo": "Social",
+    "respuestas": "TWITTER"
+  },
+  {
+    "index": 28,
+    "pregunta": "I-T-E-N-G-E-B-A",
+    "tipo": "Cosas",
+    "respuestas": "GABINETE"
+  },
+  {
+    "index": 29,
+    "pregunta": "E-L-Ó-N",
+    "tipo": "Animal",
+    "respuestas": "LEÓN"
+  },
+  {
+    "index": 30,
+    "pregunta": "C-E-S-E-A-U-L",
+    "tipo": "Cosas",
+    "respuestas": "ESCUELA"
+  }
+]
