@@ -1,46 +1,34 @@
-[
-  {
-    "frase": "El Hombre Superior es consciente de la Rectitud, el hombre inferior es consciente de la ventaja..",
-    "autor": "Confucius"
-  },
-  {
+{
+"frase": "El Hombre Superior es consciente de la Rectitud, el hombre inferior es consciente de la ventaja..",
+"autor": "Confucius",
+  
 "frase": "La libertad de religión de Estados Unidos, y la libertad de religión, ofrece a cada tradición de sabiduría una oportunidad para abordar nuestras necesidades profundas del alma: cristianismo, judaísmo, islam, budismo, hinduismo, humanismo secular, agnosticismo y ateísmo, entre otros..",
-"autor": "Parker Palmer"
-  },
-  {
+"autor": "Parker Palmer",
+  
 "frase": "Los mitos en los que se cree tienden a convertirse en realidad.",
-"autor": "George Orwell"
-  },
-  {
+"autor": "George Orwell",
+  
 "frase": "En todo caos hay un cosmos, en todo desorden un orden secreto.",
-"autor": "Carl Jung"
-  },
-  {
-    "frase": "Sé cortés con todos, pero íntimo con pocos, y deja que esos pocos sean bien probados antes de darles tu confianza..",
-    "autor": "George Washington"
-  },
-  {
-            "frase": "La libertad de religión de Estados Unidos, y la libertad de religión, ofrece a cada tradición de sabiduría una oportunidad para abordar nuestras necesidades profundas del alma: cristianismo, judaísmo, islam, budismo, hinduismo, humanismo secular, agnosticismo y ateísmo, entre otros..",
-            "autor": "Parker Palmer"
-  },
-  {
-            "frase": "Los mitos en los que se cree tienden a convertirse en realidad.",
-            "autor": "George Orwell"
-  },
-  {
-            "frase": "En todo caos hay un cosmos, en todo desorden un orden secreto.",
-            "autor": "Carl Jung"
-  },
-  {
-            "frase": "Sé cortés con todos, pero íntimo con pocos, y deja que esos pocos sean bien probados antes de darles tu confianza..",
-            "autor": "George Washington"
-  },
-  {
-            "frase": "Si te rompes el cuello, si no tienes nada para comer, si tu casa está en llamas, entonces tienes un problema. Todo lo demás son inconvenientes..",
-            "autor": "Robert Fulghum"
-  },
-  {
-            "frase": "El pasado no tiene poder para impedir que estés presente ahora. Solo tu queja sobre el pasado puede hacer eso..",
-            "autor": "Eckhart Tolle"
-  }
-]
+"autor": "Carl Jung",
+  
+"frase": "Sé cortés con todos, pero íntimo con pocos, y deja que esos pocos sean bien probados antes de darles tu confianza..",
+"autor": "George Washington",
+  
+"frase": "La libertad de religión de Estados Unidos, y la libertad de religión, ofrece a cada tradición de sabiduría una oportunidad para abordar nuestras necesidades profundas del alma: cristianismo, judaísmo, islam, budismo, hinduismo, humanismo secular, agnosticismo y ateísmo, entre otros..",
+"autor": "Parker Palmer",
+  
+"frase": "Los mitos en los que se cree tienden a convertirse en realidad.",
+"autor": "George Orwell",
+  
+"frase": "En todo caos hay un cosmos, en todo desorden un orden secreto.",
+"autor": "Carl Jung",
+  
+"frase": "Sé cortés con todos, pero íntimo con pocos, y deja que esos pocos sean bien probados antes de darles tu confianza..",
+"autor": "George Washington",
+  
+"frase": "Si te rompes el cuello, si no tienes nada para comer, si tu casa está en llamas, entonces tienes un problema. Todo lo demás son inconvenientes..",
+"autor": "Robert Fulghum",
+  
+"frase": "El pasado no tiene poder para impedir que estés presente ahora. Solo tu queja sobre el pasado puede hacer eso..",
+"autor": "Eckhart Tolle"
+}
